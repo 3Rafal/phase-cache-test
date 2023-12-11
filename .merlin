@@ -1,2 +1,2 @@
-READER
+FLG -ppx '_build/default/.ppx/a56cb746ce56d7c281c7d9796f4166ed/ppx.exe -as-ppx
 USE_PPX_CACHE
